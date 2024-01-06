@@ -18,6 +18,7 @@ body{
 nav {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
 }
 .nav-title {
@@ -27,9 +28,9 @@ font-size: 45px;
 font-weight: 800;
 
 }
-nav > ul{
+nav > ul{ 
     display: flex;
-    align-items: center;
+    align-items: center ;
 }
 nav li{
     list-style: none;
